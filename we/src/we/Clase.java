@@ -1,5 +1,5 @@
 package we;
-
+//camio
 public class Clase {
 
 	public Clase() {
